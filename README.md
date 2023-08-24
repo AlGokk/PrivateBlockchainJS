@@ -13,7 +13,7 @@ The purpose of this project is to develop familiarity with the following concept
 
 ## Testing The App
 
-The project is build as an `express.js` app with endpoints that are defined in `BlockchainController.js`. To start the server, simply build and and then run the `Dockerfile`.
+The project is build as an `express.js` app with endpoints that are defined in `BlockchainController.js`. To start the server, simply build and and then run the `Dockerfile` or just run `node app.js`.
 
 ### Step 1: `getBlockByHeight`
 
